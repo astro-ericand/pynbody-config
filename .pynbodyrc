@@ -1,0 +1,6 @@
+[ramses]
+# The default particle blocks for RAMSES files
+
+proper_time: True
+parallel-read=0
+
